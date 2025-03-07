@@ -12,7 +12,7 @@
   A fully responsive merchandise store website with modern UI/UX design, built using HTML5 & CSS3. Features include product galleries, trending items section, and a newsletters subscription.
 
 
-  <a href="https://QaiserEjaz.github.io/merchandise-store/"><strong>➥ Live Demo</strong></a>
+  <a href="https://qaiserejaz.github.io/merchandise-store/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
