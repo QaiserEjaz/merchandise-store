@@ -7,9 +7,10 @@
  
   <br />
 
-  <h2 align="center">Responsive Merchandise Store</h2>
+  <h2 align="center">Modern Merchandise Store Website</h2>
 
-  In this project, I have created Responsive Merchandise Store, The project is built using HTML5 & CSS3.
+  A fully responsive merchandise store website with modern UI/UX design, built using HTML5 & CSS3. Features include product galleries, trending items section, and a newsletter subscription.
+
 
   <a href="https://QaiserEjaz.github.io/merchandise-store/"><strong>➥ Live Demo</strong></a>
 
@@ -48,3 +49,8 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 ### License
 
 This project is **free to use** and does not contains any license.
+
+### 🙏 Acknowledgments
+- Font Awesome for icons
+- Google Fonts for typography
+- Unsplash for stock images
