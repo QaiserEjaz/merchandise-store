@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/QaiserEjaz/responsive-merchandise-store)
-  ![GitHub stars](https://img.shields.io/github/stars/QaiserEjaz/responsive-merchandise-store)
-  ![GitHub forks](https://img.shields.io/github/forks/QaiserEjaz/responsive-merchandise-store?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/QaiserEjaz/merchandise-store)
+  ![GitHub stars](https://img.shields.io/github/stars/QaiserEjaz/merchandise-store)
+  ![GitHub forks](https://img.shields.io/github/forks/QaiserEjaz/merchandise-store?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/QaiserSidd?style=social)](https://twitter.com/intent/follow?screen_name=Qaisersidd)
  
   <br />
